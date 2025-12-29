@@ -1,0 +1,22 @@
+.card {
+    border-radius: 6px;
+    padding: 20px;
+    min-height: 200px;
+    vertical-align: middle;
+}
+
+.card h1{
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 2%;
+    line-height: 64px;
+}
+
+
+.card h2{
+    font-size: 24px;
+    color: #7E7E7E;
+    font-weight: 700;
+    letter-spacing: 2%;
+    line-height: 40px;
+}

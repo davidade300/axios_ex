@@ -1,0 +1,10 @@
+.header-main {
+    background-color: #1890ff;
+    color: #fff;
+    height: 62px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+
