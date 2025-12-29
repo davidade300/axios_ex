@@ -20,3 +20,8 @@
     letter-spacing: 2%;
     line-height: 40px;
 }
+
+
+.dflex {
+  display: flex;
+}
