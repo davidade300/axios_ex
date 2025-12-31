@@ -8,7 +8,7 @@ export default function Home() {
                 <h1>Desafio Github API</h1>
                 <h2>DevSuperior - Escola de programação</h2>
 
-                <Link to={"/"}>
+                <Link to={"/find"}>
                     <div className="dflex">
                         <HomeButton />
                     </div>
