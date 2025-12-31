@@ -63,7 +63,7 @@ export default function Card() {
 
             <section>
                 {userData && <UserCard user={userData} />}
-                {userData === null && <h1>Erro ao buscar usuario </h1>}
+                {userData === null && <h1>Erro ao buscar usuario</h1>}
             </section>
         </>
     );
