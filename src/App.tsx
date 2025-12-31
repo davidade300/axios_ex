@@ -14,6 +14,7 @@ function App() {
                     <Route path="*" element={<Navigate to="/" />} />
                     <Route path="/find" element={<Find/>}>
 
+
                     </Route>
                 </Routes>
             </BrowserRouter>
